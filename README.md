@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ezecon" alt="ezecon" /></a> </p>
 
-- 📫 How to reach me **econozzaman.baiust.edu.bd**
+- 📫 How to reach me **econozzaman@baiust.edu.bd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
