@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Econozzaman Econ</h1>
 <h3 align="center">A Little Researcher from Bangladesh</h3>   
-<img align="center" src=https://cdn.dribbble.com/users/1061750/screenshots/4314775/media/e5b8a5189984db6a349cc276920a7df3.gif" alt="Coding">
+<img align="center" src="https://cdn.dribbble.com/users/1061750/screenshots/4314775/media/e5b8a5189984db6a349cc276920a7df3.gif" alt="Coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezecon&label=Profile%20views&color=0e75b6&style=flat" alt="ezecon" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ezecon" alt="ezecon" /></a> </p> 
