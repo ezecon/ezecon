@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Md. Econozzaman and I'm a Little Reasearcher, from Bangladesh</h2>
+<h2 align="center">Hi 👋! My name is Md. Econozzaman, a Little Reasearcher, from Bangladesh</h2>
 
 
 
