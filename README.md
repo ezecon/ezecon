@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://cdn.dribbble.com/users/1061750/screenshots/4314775/media/e5b8a5189984db6a349cc276920a7df3.gif"  />
 
 ###
 
@@ -82,3 +82,7 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
