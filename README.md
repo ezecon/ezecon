@@ -2,14 +2,8 @@
 
 
 
-###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezecon&show_icons=true&locale=en&layout=compact" alt="ezecon" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezecon&show_icons=true&locale=en" alt="ezecon" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ezecon&" alt="ezecon" /></p>
-
+<img align="center" height="150" src="https://www.icegif.com/wp-content/uploads/2023/04/icegif-1176.gif"  />
 ###
 
 <img align="right" height="150" src="https://cdn.dribbble.com/users/1061750/screenshots/4314775/media/e5b8a5189984db6a349cc276920a7df3.gif"  />
@@ -90,6 +84,16 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
 </div>
+
+###
+<br clear="both">
+###
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezecon&show_icons=true&locale=en&layout=compact" alt="ezecon" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezecon&show_icons=true&locale=en" alt="ezecon" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ezecon&" alt="ezecon" /></p>
 
 ###
 
