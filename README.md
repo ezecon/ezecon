@@ -18,6 +18,10 @@
 <a href="mailto:md.econozzaman@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://linkedin.com/in/ezecon"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.hackerrank.com/profile/ezecon"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+<a href="https://codeforces.com/profile/ezecon"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+
+<a href="https://scholar.google.com/citations?user=UDuz6QgAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+<a href="https://www.researchgate.net/profile/Md-Econozzaman"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" /></a>
 
 </div>
 
@@ -117,16 +121,27 @@ Adaptive math learning platform for Classes 3–10. RAG pipeline over a 1,300+ e
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ezecon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezecon&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
-
 <img src="https://streak-stats.demolab.com/?user=ezecon&theme=tokyonight&hide_border=true" alt="streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=ezecon&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
+<br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ezecon&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+<img height="180" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="stats" />
+<img height="180" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="top languages" />
+
+<img height="180" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="repos per language" />
+<img height="180" src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="productive time" />
 
 </div>
+
+---
+
+## 🔗 Research & Coding Profiles
+
+| Platform | Link |
+|:--|:--|
+| 🎓 Google Scholar | [Md. Econozzaman](https://scholar.google.com/citations?user=UDuz6QgAAAAJ&hl=en) |
+| 🔬 ResearchGate | [Md-Econozzaman](https://www.researchgate.net/profile/Md-Econozzaman) |
+| ⚔️ Codeforces | [ezecon](https://codeforces.com/profile/ezecon) |
 
 ---
 
