@@ -1,7 +1,7 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Md.%20Econozzaman%20Econ&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=AI%20Researcher%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Competitive%20Programmer&descSize=17&descAlignY=58&animation=fadeIn" alt="header" />
 
-<div align="center">
+<div align="center"> 
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=Hi+there!+%F0%9F%91%8B+I'm+Econ;M.Sc.+in+CSE+%40+BUP;Deep+Learning+%26+Computer+Vision;Explainable+AI+for+Agriculture+%26+Healthcare;Building+LLM+%26+RAG-powered+tools" alt="Typing SVG" />
