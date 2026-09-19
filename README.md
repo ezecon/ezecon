@@ -1,113 +1,143 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md.+Econozzaman+Econ!;+A+Fullstack+Developer;+A+Competitive+Programmer;+And+A+Researcher;" />
-</h1>  
-  
-      
-   
-<img align="center"  
-src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"  />
+<!-- ═══════════════ HEADER ═══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Md.%20Econozzaman%20Econ&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=AI%20Researcher%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Competitive%20Programmer&descSize=17&descAlignY=58&animation=fadeIn" alt="header" />
 
+<div align="center">
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=Hi+there!+%F0%9F%91%8B+I'm+Econ;M.Sc.+in+CSE+%40+BUP;Deep+Learning+%26+Computer+Vision;Explainable+AI+for+Agriculture+%26+Healthcare;Building+LLM+%26+RAG-powered+tools" alt="Typing SVG" />
+</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ezecon&label=Profile%20views&color=0e75b6&style=flat" alt="ezecon" /> </p>
+<br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ezecon" alt="ezecon" /></a> </p>
- 
+<img src="https://komarev.com/ghpvc/?username=ezecon&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/badge/CGPA-3.92-22c55e?style=for-the-badge" alt="cgpa" />
+<img src="https://img.shields.io/badge/Papers-8-a855f7?style=for-the-badge" alt="papers" />
 
+<br/><br/>
 
+<a href="mailto:md.econozzaman@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://linkedin.com/in/ezecon"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.hackerrank.com/profile/ezecon"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
 
-
-
-<img align="right" height="150" src="https://cdn.dribbble.com/users/1061750/screenshots/4314775/media/e5b8a5189984db6a349cc276920a7df3.gif"  />
-
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/arduino/00979D" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="30" alt="netlify logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="30" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/latex/008080" height="30" alt="latex logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="30" alt="tensorflow logo"  />
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+## 👨‍💻 About Me
+
+```python
+class Econ:
+    def __init__(self):
+        self.education  = "M.Sc. in CSE, Bangladesh University of Professionals (BUP)"
+        self.previously = "B.Sc. in CSE, BAIUST (CGPA 3.92)"
+        self.research   = ["Deep Learning", "Computer Vision", "Vision Transformers", "Explainable AI"]
+        self.building   = ["LLM / RAG apps", "Agentic AI pipelines", "Full-stack web platforms"]
+        self.goal       = "Teaching and research as a lecturer"
+```
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=py,c,cpp,cs,js,ts,php&theme=dark" alt="languages" />
+
+**AI / ML**<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,pandas,numpy&theme=dark" alt="ai" />
+
+**Web & Backend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,django,fastapi,tailwind,vite&theme=dark" alt="web" />
+
+**Databases & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,git,github,vercel,netlify,postman,figma,vscode&theme=dark" alt="tools" />
+
+<sub>Also: Hugging Face Transformers · LangGraph · Ollama · Streamlit · LaTeX · Kaggle</sub>
+
 </div>
 
-###
-<br clear="both">
-###
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezecon&show_icons=true&locale=en&layout=compact&theme=dracula" alt="ezecon" /></p>
+## 🚀 Featured Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezecon&show_icons=true&locale=en&theme=dracula" alt="ezecon" /></p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ezecon&theme=dracula" alt="ezecon" /></p>
+### 🌾 Explainable Wheat Disease Detection
+Hybrid CNN + Vision Transformer with a weighted ensemble (~99% accuracy), Faster R-CNN for real-time localization, and explainable-AI visualizations, built end to end from preprocessing to inference.
 
-###
+`PyTorch` `ViT` `Faster R-CNN` `OpenCV` `Django`
 
-<br clear="both">
+</td>
+<td width="50%" valign="top">
 
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+### 🎓 LearnScape AI
+Adaptive math learning platform for Classes 3–10. RAG pipeline over a 1,300+ entry curriculum knowledge base, mastery-based adaptive prompts, and full English/Bangla support.
+
+`FastAPI` `PostgreSQL` `Gemini API` `Next.js` `React`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📚 Research & Publications
+
+| Paper | Venue | Status |
+|:--|:--|:--:|
+| Systematic Literature Review of Deep Learning for Ocular Abnormalities | Computer Methods and Programs in Biomedicine Update (Q1) | ✅ Accepted |
+| Explainable Plant Health Monitoring: ViT & Attention-guided Cassava Disease Detection | ICCIT 2025 | ✅ Accepted |
+| Explainable Wheat Disease Diagnosis: CNN-Transformer Ensemble with Real-Time Localization | IEEE ICSPICS 2026 | ✅ Accepted |
+| Explainable AI in Ophthalmology: DL & ViTs for Multi-Class Ocular Disease Prediction | Health Information Science and Systems | 📄 See profile |
+| Explainable Diabetes Prediction in Women: Ensemble ML + Few-Shot LLM Explanations | ISET 2026 | 🔍 Under Review |
+| Real-Time Bangla Sign Language Recognition: ViT, Federated Learning, Hand Landmarks | ICCA (4th) | 🔍 Under Review |
+| TCAF: Token-Level Cross-Attention Fusion of ConvNeXt and ViT | ICCIT 2026 | 🔍 Under Review |
+| ProtoFusion: Explainable Hybrid CNN-ViT for Multi-Task Plant Disease Diagnosis | Smart Agricultural Technology (Q1) | 🔍 Under Review |
+
+---
+
+## 💼 Experience
+
+- 🔬 **Research Assistant** · Dept. of CSE, BUP · *07/2024 – 06/2025* (UGC-funded project on explainable AI in ophthalmology)
+- 🛠️ **Software Engineer Intern** · DOT iT · *09/2024 – 12/2024* (Laravel, REST APIs, MySQL)
+- 💻 **Software Developer Intern** · Zenithh BD · *04/2024 – 06/2024* (React.js, component-based UI)
+
+---
+
+## 🏆 Contests
+
+`ICPC Preliminary (2020–2024)` · `NCPC 2023 Onsite` · `CoU-BRACNet IUPC 2023` · `Devfest AI Hackathon 2023` · `IUPC BAIUST CSE Fest – Top 7`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ezecon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezecon&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+
+<img src="https://streak-stats.demolab.com/?user=ezecon&theme=tokyonight&hide_border=true" alt="streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=ezecon&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ezecon&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ezecon/ezecon/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ezecon/ezecon/output/github-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/ezecon/ezecon/output/github-snake.svg" />
+</picture>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" alt="footer" />
