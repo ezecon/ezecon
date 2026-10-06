@@ -11,7 +11,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=ezecon&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views" />
 <img src="https://img.shields.io/badge/CGPA-3.92-22c55e?style=for-the-badge" alt="cgpa" />
-<img src="https://img.shields.io/badge/Papers-8-a855f7?style=for-the-badge" alt="papers" />
+<img src="https://img.shields.io/badge/Papers-10-a855f7?style=for-the-badge" alt="papers" />
 
 <br/><br/>
 
@@ -32,9 +32,9 @@
 ```python
 class Econ:
     def __init__(self):
-        self.education  = "M.Sc. in CSE, Bangladesh University of Professionals (BUP)"
-        self.previously = "B.Sc. in CSE, BAIUST (CGPA 3.92)"
-        self.research   = ["Deep Learning", "Computer Vision", "Vision Transformers", "Explainable AI"]
+        self.education  = "M.Sc. in CSE (2025 – Present), Bangladesh University of Professionals (BUP)"
+        self.previously = "B.Sc. in CSE (2020 – 2024), BAIUST (CGPA 3.92)"
+        self.research   = ["Deep Learning", "Computer Vision", "Vision Transformers", "Explainable AI", "Federated Learning"]
         self.building   = ["LLM / RAG apps", "Agentic AI pipelines", "Full-stack web platforms"]
         self.goal       = "Teaching and research as a lecturer"
 ```
@@ -57,7 +57,7 @@ class Econ:
 **Databases & Tools**<br/>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,git,github,vercel,netlify,postman,figma,vscode&theme=dark" alt="tools" />
 
-<sub>Also: Hugging Face Transformers · LangGraph · Ollama · Streamlit · LaTeX · Kaggle</sub>
+<sub>Also: Hugging Face Transformers · LangGraph · Ollama · Tavily API · Streamlit · RAG · LaTeX · Render · Kaggle</sub>
 
 </div>
 
@@ -70,17 +70,17 @@ class Econ:
 <td width="50%" valign="top">
 
 ### 🌾 Explainable Wheat Disease Detection
-Hybrid CNN + Vision Transformer with a weighted ensemble (~99% accuracy), Faster R-CNN for real-time localization, and explainable-AI visualizations, built end to end from preprocessing to inference.
+Hybrid CNN + Vision Transformer with a weighted ensemble (~99% accuracy), Faster R-CNN for real-time localization with bounding boxes, and explainable-AI visualizations of disease-specific regions, built end to end from preprocessing to inference-ready deployment.
 
-`PyTorch` `ViT` `Faster R-CNN` `OpenCV` `Django`
+`PyTorch` `torchvision` `ViT` `Faster R-CNN` `OpenCV` `Django`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎓 LearnScape AI
-Adaptive math learning platform for Classes 3–10. RAG pipeline over a 1,300+ entry curriculum knowledge base, mastery-based adaptive prompts, and full English/Bangla support.
+Context-aware adaptive math learning platform for Classes 3–10. Hybrid RAG pipeline over a 1,300+ entry curriculum knowledge base, an adaptive prompt engine driven by a computed student mastery score (e.g. cricket, local-market contexts), full English/Bangla support, plus gamification and analytics.
 
-`FastAPI` `PostgreSQL` `Gemini API` `Next.js` `React`
+`FastAPI` `PostgreSQL` `SQLAlchemy` `Gemini API` `Next.js` `React`
 
 </td>
 </tr>
@@ -92,28 +92,30 @@ Adaptive math learning platform for Classes 3–10. RAG pipeline over a 1,300+ e
 
 | Paper | Venue | Status |
 |:--|:--|:--:|
-| Systematic Literature Review of Deep Learning for Ocular Abnormalities | Computer Methods and Programs in Biomedicine Update (Q1) | ✅ Accepted |
-| Explainable Plant Health Monitoring: ViT & Attention-guided Cassava Disease Detection | ICCIT 2025 | ✅ Accepted |
+| [Systematic Literature Review of Deep Learning Techniques for Identification of Ocular Abnormalities](https://doi.org/10.1016/j.cmpbup.2026.100238) | Computer Methods and Programs in Biomedicine Update (Q1) | ✅ Accepted |
+| [Explainable Plant Health Monitoring: ViT & Attention-guided Cassava Disease Detection](https://doi.org/10.1109/ICCIT68739.2025.11491751) | ICCIT 2025 (28th) | ✅ Accepted |
 | Explainable Wheat Disease Diagnosis: CNN-Transformer Ensemble with Real-Time Localization | IEEE ICSPICS 2026 | ✅ Accepted |
+| Explainable Diabetes Prediction in Women: Ensemble ML + Few-Shot LLM Explanations | ISET 2026 | ✅ Accepted |
 | Explainable AI in Ophthalmology: DL & ViTs for Multi-Class Ocular Disease Prediction | Health Information Science and Systems | 📄 See profile |
-| Explainable Diabetes Prediction in Women: Ensemble ML + Few-Shot LLM Explanations | ISET 2026 | 🔍 Under Review |
-| Real-Time Bangla Sign Language Recognition: ViT, Federated Learning, Hand Landmarks | ICCA (4th) | 🔍 Under Review |
-| TCAF: Token-Level Cross-Attention Fusion of ConvNeXt and ViT | ICCIT 2026 | 🔍 Under Review |
-| ProtoFusion: Explainable Hybrid CNN-ViT for Multi-Task Plant Disease Diagnosis | Smart Agricultural Technology (Q1) | 🔍 Under Review |
+| Privacy-Preserving Bangla Sign Language Recognition: Federated ViT & Landmark-Based Framework | ICCIT 2026 (29th) | 🔍 Under Review |
+| TCAF: Token-Level Cross-Attention Fusion of ConvNeXt and ViT for Wheat Disease Classification | ICCIT 2026 (29th) | 🔍 Under Review |
+| ProtoFusion: Explainable Hybrid CNN-ViT for Multi-Task Plant Disease Diagnosis & Automated Report Generation | Smart Agricultural Technology (Q1) | 🔍 Under Review |
+| Fair Clustering Under a Censored Protected Attribute: Equity-Aware Load-Shedding Zoning in Bangladesh | EEICT 2027 (7th) | 🔍 Under Review |
+| RG-MTNet: Robson-Guided Multi-Task DL for Leakage-Audited, Federated & Explainable Mode-of-Childbirth Prediction | EEICT 2027 (7th) | 🔍 Under Review |
 
 ---
 
 ## 💼 Experience
 
-- 🔬 **Research Assistant** · Dept. of CSE, BUP · *07/2024 – 06/2025* (UGC-funded project on explainable AI in ophthalmology)
-- 🛠️ **Software Engineer Intern** · DOT iT · *09/2024 – 12/2024* (Laravel, REST APIs, MySQL)
-- 💻 **Software Developer Intern** · Zenithh BD · *04/2024 – 06/2024* (React.js, component-based UI)
+- 🔬 **Research Assistant** · Dept. of CSE, BUP · *07/2024 – 06/2025* — UGC-funded project (FY 2024-25) on explainable AI in ophthalmology, under Lecturer Sayma Alam Suha
+- 🛠️ **Software Engineer Intern** · DOT iT · *09/2024 – 12/2024* — Laravel & REST APIs, MySQL query optimization, full development lifecycle (Remote)
+- 💻 **Software Developer Intern** · Zenithh BD · *04/2024 – 06/2024* — React.js, reusable component-based UI, frontend–backend API integration (Remote)
 
 ---
 
-## 🏆 Contests
+## 🏆 Contests & Achievements
 
-`ICPC Preliminary (2020–2024)` · `NCPC 2023 Onsite` · `CoU-BRACNet IUPC 2023` · `Devfest AI Hackathon 2023` · `IUPC BAIUST CSE Fest – Top 7`
+`THE INFINITY AI BUILDFEST 2026 – Finalist` · `IUPC BAIUST CSE Fest – Top 7` · `NCPC 2023 Onsite` · `CoU-BRACNet IUPC 2023` · `Devfest AI Hackathon 2023` · `ICPC Preliminary (2020–2024)`
 
 ---
 
