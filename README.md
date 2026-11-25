@@ -97,7 +97,7 @@ Context-aware adaptive math learning platform for Classes 3–10. Hybrid RAG pip
 | Explainable Wheat Disease Diagnosis: CNN-Transformer Ensemble with Real-Time Localization | IEEE ICSPICS 2026 | ✅ Accepted |
 | Explainable Diabetes Prediction in Women: Ensemble ML + Few-Shot LLM Explanations | ISET 2026 | ✅ Accepted |
 | Explainable AI in Ophthalmology: DL & ViTs for Multi-Class Ocular Disease Prediction | Health Information Science and Systems | 📄 See profile |
-| Privacy-Preserving Bangla Sign Language Recognition: Federated ViT & Landmark-Based Framework | ICCIT 2026 (29th) | 🔍 Under Review |
+| Privacy-Preserving Bangla Sign Language Recognition: Federated ViT & Landmark-Based Framework | ICCIT 2026 (29th) | ✅ Accepted |
 | TCAF: Token-Level Cross-Attention Fusion of ConvNeXt and ViT for Wheat Disease Classification | ICCIT 2026 (29th) | 🔍 Under Review |
 | ProtoFusion: Explainable Hybrid CNN-ViT for Multi-Task Plant Disease Diagnosis & Automated Report Generation | Smart Agricultural Technology (Q1) | 🔍 Under Review |
 | Fair Clustering Under a Censored Protected Attribute: Equity-Aware Load-Shedding Zoning in Bangladesh | EEICT 2027 (7th) | 🔍 Under Review |
